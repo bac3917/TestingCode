@@ -8,4 +8,4 @@ ggplot(mtcars, aes(mpg, hp)) +
   theme_minimal() +
 theme(legend.position="bottom")
 
-#hamburger
+#hamburger and fries?
