@@ -15,3 +15,5 @@ ggplot(mtcars, aes(mpg, hp,color=factor(gear))) +
   facet_wrap(~gear)+
   theme_minimal() +
   theme(legend.position="bottom")
+
+#hamburger and fries?
