@@ -7,3 +7,5 @@ ggplot(mtcars, aes(mpg, hp)) +
   lab(title="My MPG/HP Plot")+
   theme_minimal() +
 theme(legend.position="bottom")
+
+#hamburger
